@@ -1,6 +1,6 @@
 # ZKCutterMan
 Mac小工具  
-详细使用方法 [点我前往](http://blog.sina.com.cn/s/blog_752f11650102yitt.html)
+图文使用说明 [点我前往](http://blog.sina.com.cn/s/blog_752f11650102yitt.html)
 
 
 ### 使用方法
